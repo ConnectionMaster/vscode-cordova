@@ -797,6 +797,9 @@
 		},
 		"vinyl-fs": {
 			"glob": "^7.2.0"
+		},
+		"cordova-simulate": {
+			"elliptic": "^6.6.1"
 		}
 	}
 }
